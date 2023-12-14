@@ -18,7 +18,7 @@ const Resume = () => {
   window.addEventListener("resize", handleResize);
 
   return (
-    <div className='ResumePage'>
+    <div id='resume' className='ResumePage' style={{ padding: '75px' }}>
       <Document file={pdf} className="resumeview">
           <Page pageNumber= {1} scale={wid<700 ? ( wid>475? 0.7: 0.5): 1}/>
       </Document>

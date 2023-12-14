@@ -1,9 +1,9 @@
 import React from 'react';
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
 import {AiOutlineHome} from "react-icons/ai";
 import {BsPerson, BsCodeSlash} from "react-icons/bs";
 import {CgFileDocument} from "react-icons/cg";
+import { RiMindMap } from "react-icons/ri";
 
 
 const Nav = () => {
@@ -51,10 +51,11 @@ const Nav = () => {
         </div>
 
         <ul className='NavbarLinks'>
-            <li onClick={hideMenu}><Link to="/"><AiOutlineHome/> Home</Link></li>
-            <li onClick={hideMenu}><Link to="/About"><BsPerson/> About</Link></li>
-            <li onClick={hideMenu}><Link to="/Project"><BsCodeSlash/> Project</Link></li>
-            <li onClick={hideMenu}><Link to="/Resume"><CgFileDocument/> Resume</Link></li>
+            <li onClick={hideMenu}><a href="#home"><AiOutlineHome /> Home</a></li>
+            <li onClick={hideMenu}><a href="#about"><BsPerson /> About</a></li>
+            <li onClick={hideMenu}><a href="#skills"><RiMindMap/> Skills</a></li>
+            <li onClick={hideMenu}><a href="#projects"><BsCodeSlash/> Project</a></li>
+            <li onClick={hideMenu}><a href="#resume"><CgFileDocument/> Resume</a></li>
         </ul>
         
     </nav>

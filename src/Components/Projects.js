@@ -3,7 +3,7 @@ import ProjectBox from './ProjectBox';
 
 const Projects = () => {
   return (
-    <div>
+    <div id='projects'>
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
         <ProjectBox projectName="ContentSwift" />
