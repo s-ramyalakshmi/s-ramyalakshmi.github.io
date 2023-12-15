@@ -31,7 +31,7 @@ const Home = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
             Hello, my name is <b>Ramya</b> and I am from Chennai, India.
-            I'm a <b>Java backend developer</b> and pursuing <b>MS in CSE</b>. <br/><br/>
+            I'm a <b>Java backend developer</b> and pursuing <b>MS in Computer Science</b>. <br/><br/>
 
             I am fluent in <b>Java, Python, C++, C.</b> I thrive in the cutting-edge realms of <b>Spring Boot, AWS.</b>
             I embrace the challenges of databases like
