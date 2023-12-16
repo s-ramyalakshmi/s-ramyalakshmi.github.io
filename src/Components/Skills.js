@@ -1,6 +1,6 @@
 import React from 'react'; 
 import { CgCPlusPlus } from "react-icons/cg";
-import {FaJava, FaPython, FaGithub, FaAws, FaAndroid, FaJenkins, FaDocker} from "react-icons/fa";
+import {FaJava, FaPython, FaGithub, FaAws, FaAndroid, FaJenkins, FaDocker, FaReact} from "react-icons/fa";
 import {DiNodejs, DiJavascript1} from "react-icons/di";
 import {SiMongodb, SiPostman, SiPostgresql, SiElasticsearch} from "react-icons/si";
 
@@ -19,7 +19,8 @@ const Skills = ({skill}) => {
         Jenkins : <FaJenkins/>,
         Docker: <FaDocker/>,
         Postgresql : <SiPostgresql/>,
-        Elasticsearch : <SiElasticsearch/>
+        Elasticsearch : <SiElasticsearch/>,
+        React: <FaReact/>
     }
     
   return (

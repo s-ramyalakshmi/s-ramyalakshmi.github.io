@@ -71,6 +71,7 @@ const Home = () => {
         <Skills skill='Android'/>
         <Skills skill='Javascript' />
         <Skills skill='Node' />
+        <Skills skill='React' />
       </div>
     </div>
     

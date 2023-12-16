@@ -8,7 +8,7 @@ const  ProjectBox = ({projectName}) => {
     ContentSwiftDesc : "A Distributed database system for a content deliery network ContentSwift using PostgreSQL, MongoDB, Python, and Docker.",
     ContentSwiftGithub : "https://github.com/s-ramyalakshmi/DropTable",
 
-    BeTheBestYouDesc : "The Our Guardian Angel Android app is a holistic well-being solution, combining physical health, mental health, and personal goals, featuring anomaly detection, recommendations for nearby medical facilities, and emergency contact initiation in critical situations.",
+    BeTheBestYouDesc : "A Guardian Angel Android app is a holistic well-being solution, combining physical health, mental health, and personal goals, featuring anomaly detection, recommendations for nearby medical facilities, and emergency contact initiation in critical situations.",
     BeTheBestYouGithub : "https://github.com/s-ramyalakshmi/MC-BeTheBestYou",
 
     CovidSymptomsMonitorDesc:"A Covid symptoms monitoring app which evaluates heart rate and respiratory rate.",
