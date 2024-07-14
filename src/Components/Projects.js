@@ -7,6 +7,7 @@ const Projects = () => {
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
         <ProjectBox projectName="ContentSwift" />
+        <ProjectBox projectName="SpringBootKafka" />
         <ProjectBox projectName="BeTheBestYou" />
         <ProjectBox projectName="CovidSymptomsMonitor" />
         <ProjectBox projectName="SentimentAnalysis" />

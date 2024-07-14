@@ -8,6 +8,9 @@ const  ProjectBox = ({projectName}) => {
     ContentSwiftDesc : "A Distributed database system for a content deliery network ContentSwift using PostgreSQL, MongoDB, Python, and Docker.",
     ContentSwiftGithub : "https://github.com/s-ramyalakshmi/DropTable",
 
+    SpringBootKafkaDesc : "A Java Spring Boot Project with integrated Apache Kafka and Zookeeper running on docker. It includes a simple setup for both producer and consumer components using Spring Kafka.",
+    SpringBootKafkaGithub : "https://github.com/s-ramyalakshmi/spring-boot-kafka",
+
     BeTheBestYouDesc : "A Guardian Angel Android app is a holistic well-being solution, combining physical health, mental health, and personal goals, featuring anomaly detection, recommendations for nearby medical facilities, and emergency contact initiation in critical situations.",
     BeTheBestYouGithub : "https://github.com/s-ramyalakshmi/MC-BeTheBestYou",
 
