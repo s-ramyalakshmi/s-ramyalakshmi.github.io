@@ -6,6 +6,7 @@ const Projects = () => {
     <div id='projects'>
       <h1 className='projectHeading'>My <b>Projects</b></h1>
       <div className='project'>
+        <ProjectBox projectName="MentorConnexion" />
         <ProjectBox projectName="ContentSwift" />
         <ProjectBox projectName="SpringBootKafka" />
         <ProjectBox projectName="BeTheBestYou" />

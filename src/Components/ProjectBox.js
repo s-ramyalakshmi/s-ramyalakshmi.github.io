@@ -5,6 +5,9 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectName}) => {
   const desc = {
+    MentorConnexionDesc : "Develop a serverless mentor-mentee matching system using Python and AWS (DynamoDB, IAM, SES) to automate pairings, schedule Zoom sessions, and send notifications.",
+    MentorConnexionGithub : "https://github.com/2024-Arizona-Opportunity-Hack/KIDCODA-STEAMSuperheroes-STEAMSuperHeroesMentorshipPairingandSchedulingSystem",
+
     ContentSwiftDesc : "A Distributed database system for a content deliery network ContentSwift using PostgreSQL, MongoDB, Python, and Docker.",
     ContentSwiftGithub : "https://github.com/s-ramyalakshmi/DropTable",
 

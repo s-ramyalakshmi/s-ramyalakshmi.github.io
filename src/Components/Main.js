@@ -30,15 +30,15 @@ const Home = () => {
         <div>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
-            Hello, my name is <b>Ramya</b> and I am from Chennai, India.
-            I'm a <b>Java backend developer</b> and pursuing <b>MS in Computer Science</b>. <br/><br/>
+            Hello, my name is <b>Ramya</b>,
+            a <b>Software Developer</b> with 4 years experience in Java, Spring Boot, AWS, and Databases. I recently graduated with <b>MS in Computer Science</b> from Arizona State University. <br/><br/>
 
-            I am fluent in <b>Java, Python, C++, C.</b> I thrive in the cutting-edge realms of <b>Spring Boot, AWS.</b>
-            I embrace the challenges of databases like
-            <b className="purple"> MongoDB, PostgreSQL, and DynamoDB.</b> <br/><br/>
-            In my past role as a <b> software engineer</b>, I led the backend team, improved system efficiency, managed the database lifecycle, and received recognition for cost-saving implementations.
-            <br></br><br></br>I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Besides coding, I love to sing.<br/>
+            I am fluent in <b>Java, Python, Microservices, </b><b>Spring Boot, AWS.</b> and Databases
+            <b className="purple"> (PostgreSQL, MySQL, MongoDB, DynamoDB, and Neo4j auraDB).</b> <br/><br/>
+
+            Previously, I led backend development and AWS optimizations, driving cost and performance improvements. I built secure Java Spring Boot applications with OAuth2 and JWT.
+            <br></br><br></br> Open to <b> collaborations and new opportunities </b>  —connect with me via the links in the footer!<br/>
+            <br></br>Beyond coding, I love to sing.<br/>
           </p>
          </div>
          </div>
